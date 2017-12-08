@@ -4,7 +4,7 @@ It's a template project for using cmake
 
 
 #### Directory Structor
-
+```
 workspace
     |—— src
         |—— test
@@ -14,6 +14,7 @@ workspace
         |—— CMakeLists.txt
     |—— CMakeLists.txt
     |—— build          （CMake build dir 可任意指定）
+```
 
 #### Usage
 ```sh
